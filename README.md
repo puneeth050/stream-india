@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This Application is a twitch clone built to gain the knowledge of Next JS, React, MySql, Prisma, Typescript, TailwindCSS and Shadcn UI
+
+Credits:
+Code With Antonio
+Youtube: https://www.youtube.com/@codewithantonio
+This Project: https://www.codewithantonio.com/projects/twitch-clone
+Website: https://www.codewithantonio.com
+Github: https://github.com/AntonioErdeljac
 
 ## Getting Started
 
